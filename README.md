@@ -1,6 +1,6 @@
 Self-taught programmer with 4+ years of experience.
 
-🎯**Current Focus**: Machine Learning, Systems Programming, Edge AI, and Inference Engineering.
+🎯 **Current Focus**: Machine Learning, Systems Programming, Edge AI, and Inference Engineering.
 
 🛠️ **Primary Languages**: Python, C++.
 
